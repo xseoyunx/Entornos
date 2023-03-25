@@ -8,4 +8,7 @@ private int TipoIntereses;
 	public int getTipoIntereses(){
 		return TipoIntereses;
 	}
+	public int si(){
+		return 1*1;
+	}
 }
